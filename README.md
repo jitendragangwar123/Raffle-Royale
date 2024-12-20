@@ -1,6 +1,10 @@
 ## Raffle Royale
 
-#### A game where players stake ETH to enter a raffle, with a winner randomly selected using Chainlink VRF for provably fair and transparent results.
+#### Raffle-Royale is a decentralized game where players stake ETH to enter a raffle, with Chainlink VRF ensuring provably fair winner selection and Chainlink Automation managing seamless and efficient operations.
+
+<img width="1422" alt="Screenshot 2024-12-20 at 9 14 13 AM" src="https://github.com/user-attachments/assets/14c72ffb-c30c-4f59-9c7c-a320321147c1" />
+<img width="1425" alt="Screenshot 2024-12-20 at 9 14 37 AM" src="https://github.com/user-attachments/assets/cb78e754-aac4-4349-aa72-521ee6ac42c7" />
+
 
 ### Requirements
 
